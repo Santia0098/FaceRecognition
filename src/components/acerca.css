@@ -1,0 +1,13 @@
+.imagen {
+    align-items: flex-end;
+    justify-content: flex-end;
+    display: flex;
+}
+
+
+.tecdevs {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 100px;
+}
